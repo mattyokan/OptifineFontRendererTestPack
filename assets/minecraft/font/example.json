@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "font/example_glyph1.png",
+      "ascent": 0,
+      "chars": ["0"]
+    },
+        {
+      "type": "bitmap",
+      "file": "font/example_glyph2.png",
+      "ascent": 0,
+      "chars": ["1"]
+    }
+  ]
+}
